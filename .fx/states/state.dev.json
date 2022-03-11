@@ -1,0 +1,12 @@
+{
+    "solution": {
+        "teamsAppTenantId": "c9534ea1-9e5d-4d40-9c51-498301445476",
+        "provisionSucceeded": true
+    },
+    "fx-resource-spfx": {},
+    "fx-resource-appstudio": {
+        "tenantId": "c9534ea1-9e5d-4d40-9c51-498301445476",
+        "teamsAppId": "be84e902-a74d-4e92-8e6f-40552bda229a",
+        "teamsAppUpdatedAt": 1645792735653
+    }
+}

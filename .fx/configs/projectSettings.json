@@ -1,0 +1,21 @@
+{
+    "appName": "HelloWorlReactTabs",
+    "projectId": "0e7b166b-ffb7-42fe-bc6b-42239d8a7ac4",
+    "version": "2.1.0",
+    "isFromSample": false,
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "SPFx",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-spfx",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio"
+        ]
+    },
+    "programmingLanguage": "typescript"
+}
